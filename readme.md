@@ -1,0 +1,1 @@
+本工程是Kent Beck的 Test-Driven Development by Example里第一部分的例子。原书语言使用了Java，这里改成Python实现。
